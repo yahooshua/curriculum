@@ -34,7 +34,7 @@ We can differentiate between arrays based on whether their size is declared up-f
 
 A good example is the one of a bookshelf. You start by placing the *first* book in the left side of the shelf, following with each book to the right of the last one, until there is no more space.
 
-In this case, each book has its own *allocated space* and you can straight up *see the title and author* on the side of the book.
+In this case, each book has its own *allocated space* and you can directly *see the title and author* on the side of the book.
 
 A *dynamic* bookshelf would resize itself as soon as there is no more room for another book, while a *static* one wouldn't.
 
